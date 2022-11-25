@@ -2,14 +2,14 @@
 
 ## Description
 
-### This repo is a test for deploying to github-pages
+This repo is a test for deploying to github-pages
 
 ## Tests
 
-### none
+none
 
 ## Contributors
 
-### none
+none
 
 ## Deployed Site
